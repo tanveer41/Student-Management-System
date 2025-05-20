@@ -47,8 +47,8 @@ student.exe: Compiled executable (may not be present; compile from source if abs
 # Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+### License
 This project is open-source and available under the MIT License.
 
-Author
+# Author
 Developed by Tanveer Bhatt
